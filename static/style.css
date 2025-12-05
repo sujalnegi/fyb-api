@@ -1,17 +1,16 @@
-
 :root {
-    --bg-dark: #050510;
-    --glass-bg: rgba(20, 20, 35, 0.4);
-    --glass-border: rgba(255, 255, 255, 0.1);
-    --primary-pink: #ff00ff;
-    --primary-cyan: #00ffff;
-    --primary-purple: #bd00ff;
+    --bg-dark: #FEEFE5;
+    --glass-bg: rgba(255, 255, 255, 0.4);
+    --glass-border: rgba(255, 255, 255, 0.5);
+    --primary-pink: #EE6123;
+    --primary-cyan: #F5CB5C;
+    --primary-purple: #7B904B;
 
-    --text-main: #ffffff;
-    --text-muted: rgba(255, 255, 255, 0.7);
+    --text-main: #2d2d2d;
+    --text-muted: rgba(45, 45, 45, 0.7);
 
-    --neon-shadow-pink: 0 0 10px rgba(255, 0, 255, 0.5), 0 0 20px rgba(255, 0, 255, 0.3);
-    --neon-shadow-cyan: 0 0 10px rgba(0, 255, 255, 0.5), 0 0 20px rgba(0, 255, 255, 0.3);
+    --neon-shadow-pink: 0 0 10px rgba(238, 97, 35, 0.5), 0 0 20px rgba(238, 97, 35, 0.3);
+    --neon-shadow-cyan: 0 0 10px rgba(245, 203, 92, 0.5), 0 0 20px rgba(245, 203, 92, 0.3);
 
     --radius-lg: 24px;
     --radius-md: 12px;
@@ -121,7 +120,7 @@ body {
 
 .particle {
     position: absolute;
-    background: white;
+    background: var(--primary-purple);
     border-radius: 50%;
     opacity: 0;
     pointer-events: none;
@@ -145,7 +144,7 @@ header {
     font-family: 'Press Start 2P', cursive;
     font-size: 2rem;
     line-height: 1.6;
-    color: white;
+    color: var(--primary-pink);
     text-transform: uppercase;
     text-shadow:
         4px 4px 0px var(--primary-purple),
@@ -232,9 +231,9 @@ header {
 
 .form-group label {
     display: block;
-    font-size: 0.9rem;
+    font-size: 1rem;
     font-weight: 600;
-    color: var(--primary-cyan);
+    color: var(--text-main);
     margin-bottom: 0.5rem;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -243,11 +242,11 @@ header {
 input,
 select {
     width: 100%;
-    background: rgba(0, 0, 0, 0.3);
-    border: 2px solid rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.6);
+    border: 2px solid rgba(0, 0, 0, 0.1);
     border-radius: var(--radius-md);
     padding: 1rem;
-    color: white;
+    color: var(--text-main);
     font-family: 'Outfit', sans-serif;
     font-size: 1rem;
     transition: all 0.3s ease;
@@ -257,12 +256,12 @@ input:focus,
 select:focus {
     outline: none;
     border-color: var(--primary-pink);
-    box-shadow: 0 0 15px rgba(255, 0, 255, 0.3);
-    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 15px rgba(238, 97, 35, 0.3);
+    background: rgba(255, 255, 255, 0.9);
 }
 
 input::placeholder {
-    color: rgba(255, 255, 255, 0.3);
+    color: rgba(45, 45, 45, 0.5);
 }
 
 .btn-group {
@@ -319,20 +318,21 @@ input::placeholder {
 }
 
 .hobby-card {
-    background: rgba(255, 255, 255, 0.03);
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    background: rgba(255, 255, 255, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: var(--radius-lg);
     padding: 2rem;
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     position: relative;
     overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
 }
 
 .hobby-card:hover {
     transform: translateY(-10px) scale(1.02);
-    background: rgba(255, 255, 255, 0.07);
-    border-color: var(--primary-cyan);
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+    background: rgba(255, 255, 255, 0.8);
+    border-color: var(--primary-pink);
+    box-shadow: 0 10px 40px rgba(238, 97, 35, 0.2);
 }
 
 .hobby-card::after {
@@ -342,7 +342,7 @@ input::placeholder {
     left: 0;
     width: 4px;
     height: 100%;
-    background: linear-gradient(to bottom, var(--primary-cyan), var(--primary-purple));
+    background: linear-gradient(to bottom, var(--primary-pink), var(--primary-cyan));
 }
 
 .card-header {
@@ -357,7 +357,7 @@ input::placeholder {
 .card-title {
     font-size: 1.8rem;
     font-weight: 800;
-    color: white;
+    color: var(--text-main);
 }
 
 .badges {
@@ -375,19 +375,19 @@ input::placeholder {
 
 .badge-green {
     background: rgba(0, 255, 128, 0.2);
-    color: #00ff80;
+    color: #000;
     border: 1px solid #00ff80;
 }
 
 .badge-yellow {
     background: rgba(255, 255, 0, 0.2);
-    color: #ffff00;
+    color: #000;
     border: 1px solid #ffff00;
 }
 
 .badge-red {
     background: rgba(255, 0, 85, 0.2);
-    color: #ff0055;
+    color: #000;
     border: 1px solid #ff0055;
 }
 
@@ -416,10 +416,10 @@ input::placeholder {
 }
 
 .info-box {
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(255, 255, 255, 0.5);
     padding: 1rem;
     border-radius: var(--radius-md);
-    border-left: 2px solid var(--primary-purple);
+    border-left: 2px solid var(--primary-pink);
 }
 
 .info-label {
@@ -434,7 +434,7 @@ input::placeholder {
 .info-list li {
     list-style: none;
     font-size: 0.9rem;
-    color: #ddd;
+    color: var(--text-main);
     margin-bottom: 0.25rem;
     padding-left: 1rem;
     position: relative;
@@ -488,4 +488,3 @@ input::placeholder {
 .fade-in {
     animation: fadeIn 0.6s ease-out forwards;
 }
-
