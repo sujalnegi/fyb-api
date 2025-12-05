@@ -1,0 +1,4 @@
+Server script started
+BASE_DIR: C:\Users\sujal\Downloads\moonshot\find-your-hobby
+HOBBIES_PATH: C:\Users\sujal\Downloads\moonshot\find-your-hobby\hobbies.json
+Exists: True

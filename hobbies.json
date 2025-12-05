@@ -1,0 +1,1124 @@
+[
+  {
+    "name": "Drawing & Sketching",
+    "short": "Express creativity through lines and shading.",
+    "interests": [
+      "art",
+      "creative",
+      "design",
+      "visual"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 4,
+    "how_to_start": [
+      "Get a sketchbook and pencils",
+      "Practice basic shapes daily",
+      "Try a 30-day drawing challenge"
+    ]
+  },
+  {
+    "name": "Watercolor Painting",
+    "short": "Create fluid, colorful artworks.",
+    "interests": [
+      "art",
+      "painting",
+      "creative",
+      "visual"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Buy a basic watercolor set",
+      "Learn about paper types",
+      "Watch tutorials on washes and blending"
+    ]
+  },
+  {
+    "name": "Photography",
+    "short": "Capture moments and perspectives.",
+    "interests": [
+      "art",
+      "visual",
+      "technology",
+      "outdoor"
+    ],
+    "pref_indoor": 0.0,
+    "creative": 1.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 3,
+    "how_to_start": [
+      "Use your smartphone camera",
+      "Learn the rule of thirds",
+      "Experiment with lighting"
+    ]
+  },
+  {
+    "name": "Creative Writing",
+    "short": "Craft stories, poems, or essays.",
+    "interests": [
+      "writing",
+      "creative",
+      "storytelling",
+      "literature"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 3,
+    "how_to_start": [
+      "Start a daily journal",
+      "Try writing prompts",
+      "Read widely in your genre"
+    ]
+  },
+  {
+    "name": "Digital Art",
+    "short": "Create art using digital tools.",
+    "interests": [
+      "art",
+      "technology",
+      "design",
+      "creative"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 5,
+    "how_to_start": [
+      "Get a graphics tablet",
+      "Learn software like Krita or Photoshop",
+      "Practice digital painting techniques"
+    ]
+  },
+  {
+    "name": "Calligraphy",
+    "short": "The art of beautiful handwriting.",
+    "interests": [
+      "art",
+      "design",
+      "writing",
+      "visual"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 3,
+    "how_to_start": [
+      "Buy a calligraphy pen set",
+      "Practice basic strokes",
+      "Copy alphabet templates"
+    ]
+  },
+  {
+    "name": "Origami",
+    "short": "Paper folding art.",
+    "interests": [
+      "art",
+      "craft",
+      "creative",
+      "hands-on"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 2,
+    "how_to_start": [
+      "Get origami paper",
+      "Learn basic folds like valley and mountain",
+      "Make a paper crane"
+    ]
+  },
+  {
+    "name": "Knitting",
+    "short": "Create fabric with yarn and needles.",
+    "interests": [
+      "craft",
+      "fashion",
+      "creative",
+      "hands-on"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Buy knitting needles and yarn",
+      "Learn the knit and purl stitches",
+      "Start a simple scarf project"
+    ]
+  },
+  {
+    "name": "Running",
+    "short": "Boost fitness and endurance.",
+    "interests": [
+      "fitness",
+      "outdoor",
+      "health",
+      "active"
+    ],
+    "pref_indoor": -1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Get good running shoes",
+      "Start with walk/run intervals",
+      "Follow a Couch to 5K plan"
+    ]
+  },
+  {
+    "name": "Hiking",
+    "short": "Explore nature trails.",
+    "interests": [
+      "outdoor",
+      "nature",
+      "fitness",
+      "adventure"
+    ],
+    "pref_indoor": -1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 5,
+    "how_to_start": [
+      "Find local trails",
+      "Wear comfortable shoes",
+      "Bring water and a map"
+    ]
+  },
+  {
+    "name": "Yoga",
+    "short": "Enhance flexibility and mindfulness.",
+    "interests": [
+      "fitness",
+      "health",
+      "mindfulness",
+      "wellness"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 3,
+    "how_to_start": [
+      "Get a yoga mat",
+      "Follow beginner videos online",
+      "Practice basic poses like Downward Dog"
+    ]
+  },
+  {
+    "name": "Cycling",
+    "short": "Ride for fitness or transport.",
+    "interests": [
+      "fitness",
+      "outdoor",
+      "travel",
+      "active"
+    ],
+    "pref_indoor": -1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 3,
+    "cost_label": "High",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Get a bicycle and helmet",
+      "Find safe cycling routes",
+      "Start with short rides"
+    ]
+  },
+  {
+    "name": "Calisthenics",
+    "short": "Bodyweight strength training.",
+    "interests": [
+      "fitness",
+      "strength",
+      "health",
+      "active"
+    ],
+    "pref_indoor": 0.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Hard",
+    "time_hours": 4,
+    "how_to_start": [
+      "Learn basic pushups and squats",
+      "Focus on form",
+      "Build a routine"
+    ]
+  },
+  {
+    "name": "Rock Climbing",
+    "short": "Scale walls and cliffs.",
+    "interests": [
+      "fitness",
+      "adventure",
+      "outdoor",
+      "strength"
+    ],
+    "pref_indoor": 0.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 3,
+    "cost_label": "High",
+    "difficulty": "Hard",
+    "time_hours": 4,
+    "how_to_start": [
+      "Visit a climbing gym",
+      "Rent gear",
+      "Take an introductory class"
+    ]
+  },
+  {
+    "name": "Swimming",
+    "short": "Full-body water workout.",
+    "interests": [
+      "fitness",
+      "water",
+      "health",
+      "active"
+    ],
+    "pref_indoor": 0.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 3,
+    "how_to_start": [
+      "Find a local pool",
+      "Get swimwear and goggles",
+      "Practice breathing techniques"
+    ]
+  },
+  {
+    "name": "Coding",
+    "short": "Build software and websites.",
+    "interests": [
+      "technology",
+      "logic",
+      "creative",
+      "problem-solving"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Hard",
+    "time_hours": 6,
+    "how_to_start": [
+      "Choose a language like Python",
+      "Use free online resources",
+      "Build a small project"
+    ]
+  },
+  {
+    "name": "Gaming",
+    "short": "Play video games.",
+    "interests": [
+      "technology",
+      "entertainment",
+      "storytelling",
+      "social"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 6,
+    "how_to_start": [
+      "Choose a platform (PC, Console)",
+      "Find genres you like",
+      "Play with friends"
+    ]
+  },
+  {
+    "name": "3D Printing",
+    "short": "Create physical objects from digital models.",
+    "interests": [
+      "technology",
+      "design",
+      "creative",
+      "engineering"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 3,
+    "cost_label": "High",
+    "difficulty": "Hard",
+    "time_hours": 5,
+    "how_to_start": [
+      "Learn 3D modeling software",
+      "Buy or access a 3D printer",
+      "Print simple models"
+    ]
+  },
+  {
+    "name": "Arduino/Electronics",
+    "short": "Build electronic circuits and gadgets.",
+    "interests": [
+      "technology",
+      "engineering",
+      "hands-on",
+      "logic"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Hard",
+    "time_hours": 5,
+    "how_to_start": [
+      "Get a starter kit",
+      "Learn basic circuit concepts",
+      "Follow simple project tutorials"
+    ]
+  },
+  {
+    "name": "Cooking",
+    "short": "Prepare delicious meals.",
+    "interests": [
+      "food",
+      "creative",
+      "lifestyle",
+      "health"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 5,
+    "how_to_start": [
+      "Learn knife skills",
+      "Master a few basic recipes",
+      "Experiment with spices"
+    ]
+  },
+  {
+    "name": "Baking",
+    "short": "Make bread, cakes, and pastries.",
+    "interests": [
+      "food",
+      "creative",
+      "lifestyle",
+      "science"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Get basic baking tools",
+      "Start with cookies or muffins",
+      "Follow recipes precisely"
+    ]
+  },
+  {
+    "name": "Gardening",
+    "short": "Grow plants and flowers.",
+    "interests": [
+      "nature",
+      "outdoor",
+      "lifestyle",
+      "health"
+    ],
+    "pref_indoor": 0.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 3,
+    "how_to_start": [
+      "Start with easy plants",
+      "Learn about soil and light",
+      "Water regularly"
+    ]
+  },
+  {
+    "name": "DIY/Woodworking",
+    "short": "Build and repair things.",
+    "interests": [
+      "craft",
+      "hands-on",
+      "creative",
+      "engineering"
+    ],
+    "pref_indoor": 0.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 5,
+    "how_to_start": [
+      "Get basic tools",
+      "Learn safety precautions",
+      "Start a small project"
+    ]
+  },
+  {
+    "name": "Reading",
+    "short": "Explore new worlds through books.",
+    "interests": [
+      "literature",
+      "intellectual",
+      "storytelling",
+      "quiet"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 4,
+    "how_to_start": [
+      "Visit a library",
+      "Pick a genre you like",
+      "Set aside reading time"
+    ]
+  },
+  {
+    "name": "Chess",
+    "short": "Strategic board game.",
+    "interests": [
+      "intellectual",
+      "strategy",
+      "logic",
+      "gaming"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Hard",
+    "time_hours": 3,
+    "how_to_start": [
+      "Learn the rules",
+      "Play online or with friends",
+      "Study basic tactics"
+    ]
+  },
+  {
+    "name": "Learning a Language",
+    "short": "Speak a new language.",
+    "interests": [
+      "intellectual",
+      "culture",
+      "communication",
+      "travel"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Hard",
+    "time_hours": 3,
+    "how_to_start": [
+      "Use a language app",
+      "Listen to music/podcasts",
+      "Practice speaking"
+    ]
+  },
+  {
+    "name": "Board Games",
+    "short": "Tabletop games with friends.",
+    "interests": [
+      "social",
+      "gaming",
+      "strategy",
+      "fun"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": -1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Easy",
+    "time_hours": 3,
+    "how_to_start": [
+      "Buy a few classic games",
+      "Host a game night",
+      "Learn rules together"
+    ]
+  },
+  {
+    "name": "Volunteering",
+    "short": "Give back to the community.",
+    "interests": [
+      "social",
+      "community",
+      "helping",
+      "lifestyle"
+    ],
+    "pref_indoor": 0.0,
+    "creative": 0.0,
+    "social": -1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 2,
+    "how_to_start": [
+      "Find local organizations",
+      "Choose a cause",
+      "Sign up for an event"
+    ]
+  },
+  {
+    "name": "Dancing",
+    "short": "Move to music.",
+    "interests": [
+      "social",
+      "fitness",
+      "music",
+      "creative"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 3,
+    "how_to_start": [
+      "Take a class",
+      "Watch tutorials",
+      "Practice at home"
+    ]
+  },
+  {
+    "name": "Meditation",
+    "short": "Practice mindfulness.",
+    "interests": [
+      "wellness",
+      "mindfulness",
+      "health",
+      "quiet"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 2,
+    "how_to_start": [
+      "Find a quiet spot",
+      "Focus on your breath",
+      "Use guided apps"
+    ]
+  },
+  {
+    "name": "Astronomy",
+    "short": "Stargazing and space exploration.",
+    "interests": [
+      "science",
+      "nature",
+      "outdoor",
+      "intellectual"
+    ],
+    "pref_indoor": -1.0,
+    "creative": 0.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 2,
+    "how_to_start": [
+      "Get a star map app",
+      "Find a dark sky location",
+      "Use binoculars or telescope"
+    ]
+  },
+  {
+    "name": "Bird Watching",
+    "short": "Observe birds in nature.",
+    "interests": [
+      "nature",
+      "outdoor",
+      "animals",
+      "quiet"
+    ],
+    "pref_indoor": -1.0,
+    "creative": 0.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 2,
+    "how_to_start": [
+      "Get binoculars",
+      "Get a field guide",
+      "Visit a park"
+    ]
+  },
+  {
+    "name": "Playing Guitar",
+    "short": "Make music with strings.",
+    "interests": [
+      "music",
+      "creative",
+      "art",
+      "social"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Buy a beginner guitar",
+      "Learn basic chords",
+      "Practice daily"
+    ]
+  },
+  {
+    "name": "Playing Piano",
+    "short": "Make music with keys.",
+    "interests": [
+      "music",
+      "creative",
+      "art",
+      "intellectual"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 3,
+    "cost_label": "High",
+    "difficulty": "Hard",
+    "time_hours": 4,
+    "how_to_start": [
+      "Get a keyboard",
+      "Learn scales",
+      "Take lessons"
+    ]
+  },
+  {
+    "name": "Podcasting",
+    "short": "Create audio content.",
+    "interests": [
+      "technology",
+      "creative",
+      "storytelling",
+      "communication"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Choose a topic",
+      "Get a microphone",
+      "Record and edit"
+    ]
+  },
+  {
+    "name": "Magic Tricks",
+    "short": "Perform illusions.",
+    "interests": [
+      "entertainment",
+      "performance",
+      "social",
+      "skill"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": -1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 3,
+    "how_to_start": [
+      "Learn card tricks",
+      "Practice sleight of hand",
+      "Perform for friends"
+    ]
+  },
+  {
+    "name": "Solving Rubik's Cube",
+    "short": "Speedcubing puzzle.",
+    "interests": [
+      "puzzle",
+      "logic",
+      "skill",
+      "intellectual"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 2,
+    "how_to_start": [
+      "Get a speedcube",
+      "Learn algorithms",
+      "Practice solving"
+    ]
+  },
+  {
+    "name": "Journaling",
+    "short": "Record thoughts and memories.",
+    "interests": [
+      "writing",
+      "mindfulness",
+      "wellness",
+      "quiet"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 2,
+    "how_to_start": [
+      "Get a notebook",
+      "Write daily",
+      "Reflect on your day"
+    ]
+  },
+  {
+    "name": "Scrapbooking",
+    "short": "Preserve memories creatively.",
+    "interests": [
+      "craft",
+      "art",
+      "memory",
+      "creative"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Easy",
+    "time_hours": 3,
+    "how_to_start": [
+      "Collect photos",
+      "Get supplies",
+      "Design pages"
+    ]
+  },
+  {
+    "name": "Fishing",
+    "short": "Catch fish in water.",
+    "interests": [
+      "outdoor",
+      "nature",
+      "quiet",
+      "patience"
+    ],
+    "pref_indoor": -1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Get fishing gear",
+      "Find a spot",
+      "Learn to cast"
+    ]
+  },
+  {
+    "name": "Camping",
+    "short": "Sleep outdoors.",
+    "interests": [
+      "outdoor",
+      "nature",
+      "adventure",
+      "social"
+    ],
+    "pref_indoor": -1.0,
+    "creative": 0.0,
+    "social": -1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 24,
+    "how_to_start": [
+      "Get a tent",
+      "Find a campsite",
+      "Pack essentials"
+    ]
+  },
+  {
+    "name": "Archery",
+    "short": "Shoot arrows at targets.",
+    "interests": [
+      "sport",
+      "skill",
+      "focus",
+      "outdoor"
+    ],
+    "pref_indoor": 0.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 3,
+    "how_to_start": [
+      "Find a range",
+      "Rent equipment",
+      "Take a lesson"
+    ]
+  },
+  {
+    "name": "Bowling",
+    "short": "Knock down pins.",
+    "interests": [
+      "sport",
+      "social",
+      "fun",
+      "game"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": -1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Easy",
+    "time_hours": 2,
+    "how_to_start": [
+      "Visit a bowling alley",
+      "Rent shoes",
+      "Play a game"
+    ]
+  },
+  {
+    "name": "Pottery",
+    "short": "Make objects from clay.",
+    "interests": [
+      "art",
+      "craft",
+      "creative",
+      "hands-on"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 0.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Take a class",
+      "Learn wheel throwing",
+      "Glaze your work"
+    ]
+  },
+  {
+    "name": "Candle Making",
+    "short": "Create scented candles.",
+    "interests": [
+      "craft",
+      "creative",
+      "lifestyle",
+      "hands-on"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Easy",
+    "time_hours": 3,
+    "how_to_start": [
+      "Get wax and wicks",
+      "Melt wax",
+      "Add scent and pour"
+    ]
+  },
+  {
+    "name": "Soap Making",
+    "short": "Create custom soaps.",
+    "interests": [
+      "craft",
+      "creative",
+      "lifestyle",
+      "hands-on"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 3,
+    "how_to_start": [
+      "Choose a method",
+      "Get ingredients",
+      "Follow safety rules"
+    ]
+  },
+  {
+    "name": "Geocaching",
+    "short": "Treasure hunt with GPS.",
+    "interests": [
+      "outdoor",
+      "adventure",
+      "technology",
+      "fun"
+    ],
+    "pref_indoor": -1.0,
+    "creative": 0.0,
+    "social": 0.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Easy",
+    "time_hours": 3,
+    "how_to_start": [
+      "Download the app",
+      "Find a cache near you",
+      "Sign the logbook"
+    ]
+  },
+  {
+    "name": "Model Building",
+    "short": "Assemble scale models.",
+    "interests": [
+      "craft",
+      "detail",
+      "hands-on",
+      "patience"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 1.0,
+    "cost_level": 2,
+    "cost_label": "Medium",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Choose a kit",
+      "Get tools and glue",
+      "Follow instructions"
+    ]
+  },
+  {
+    "name": "Sudoku",
+    "short": "Number placement puzzle.",
+    "interests": [
+      "puzzle",
+      "logic",
+      "intellectual",
+      "quiet"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 2,
+    "how_to_start": [
+      "Get a puzzle book",
+      "Learn the rules",
+      "Start with easy puzzles"
+    ]
+  },
+  {
+    "name": "Crosswords",
+    "short": "Word puzzle.",
+    "interests": [
+      "puzzle",
+      "word",
+      "intellectual",
+      "quiet"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 0.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 2,
+    "how_to_start": [
+      "Find a puzzle",
+      "Read clues",
+      "Fill in words"
+    ]
+  },
+  {
+    "name": "Video Editing",
+    "short": "Edit video footage.",
+    "interests": [
+      "technology",
+      "creative",
+      "visual",
+      "storytelling"
+    ],
+    "pref_indoor": 1.0,
+    "creative": 1.0,
+    "social": 1.0,
+    "cost_level": 1,
+    "cost_label": "Low",
+    "difficulty": "Medium",
+    "time_hours": 4,
+    "how_to_start": [
+      "Get editing software",
+      "Import footage",
+      "Cut and arrange clips"
+    ]
+  }
+]

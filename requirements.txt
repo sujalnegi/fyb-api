@@ -1,0 +1,9 @@
+flask
+flask-cors
+pydantic
+numpy
+scipy
+google-generativeai
+pytest
+gunicorn
+python-dotenv

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Hobby Finder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="background-wrapper">
+        <div class="grid-floor"></div>
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="particles-container" id="particles-container"></div>
+    </div>
+
+    <div class="app-container">
+
+        <header>
+            <h1 class="title-pixel">AI HOBBY FINDER</h1>
+            <p class="subtitle">Dont Sit Idle Anymore, Find the Most Suitable Hobby for You</p>
+        </header>
+
+        <main class="glass-panel fade-in">
+            <div id="questions" class="form-grid">
+
+                <div class="form-group form-full">
+                    <label for="interest">Main Interest</label>
+                    <input id="interest" type="text" placeholder="Travel, Art, Space, Technology..." autocomplete="off">
+                </div>
+
+                <div class="form-group">
+                    <label for="environment">Environment</label>
+                    <select id="environment">
+                        <option value="indoor">Indoor</option>
+                        <option value="outdoor">Outdoor</option>
+                        <option value="both">Both</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="physical">Intensity</label>
+                    <select id="physical">
+                        <option value="low">Low</option>
+                        <option value="medium">Medium</option>
+                        <option value="high">High</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="creative">Creative Mode</label>
+                    <select id="creative">
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="social">Social Mode</label>
+                    <select id="social">
+                        <option value="solo">Solo</option>
+                        <option value="group">Group</option>
+                        <option value="either">Either</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="budget">Budget</label>
+                    <select id="budget">
+                        <option value="low">Low</option>
+                        <option value="medium">Medium</option>
+                        <option value="high">High</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="time">Time Allocation</label>
+                    <select id="time">
+                        <option value="low">&lt; 3 Hours/Week</option>
+                        <option value="medium">3–6 Hours/Week</option>
+                        <option value="high">6+ Hours/Week</option>
+                    </select>
+                </div>
+
+                <div class="form-group form-full btn-group">
+                    <button id="findBtn" class="btn btn-primary">INITIATE SCAN</button>
+                    <button id="allBtn" class="btn btn-secondary">BROWSE DATABASE</button>
+                </div>
+
+            </div>
+        </main>
+
+        <div id="results" class="results-grid"></div>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+
+</html>

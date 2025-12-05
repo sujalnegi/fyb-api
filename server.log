@@ -1,0 +1,296 @@
+2025-11-29 22:08:30,123 - ERROR - Hobbies file not found at C:\Users\sujal\Downloads\moonshot\find-your-hobby\hobbies.json
+2025-11-29 22:08:48,368 - INFO - Use pytorch device_name: cpu
+2025-11-29 22:08:48,368 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-29 22:09:01,230 - INFO - Building new embeddings...
+2025-11-29 22:09:01,230 - WARNING - No documents to embed.
+2025-11-29 22:09:01,273 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.147.212.195:8000
+2025-11-29 22:09:01,273 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 22:21:59,153 - ERROR - Hobbies file not found at C:\Users\sujal\Downloads\moonshot\find-your-hobby\hobbies.json
+2025-11-29 22:22:08,323 - INFO - Use pytorch device_name: cpu
+2025-11-29 22:22:08,323 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-29 22:22:20,999 - INFO - Building new embeddings...
+2025-11-29 22:22:20,999 - WARNING - No documents to embed.
+2025-11-29 22:22:21,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.147.212.195:8001
+2025-11-29 22:22:21,025 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 22:24:10,279 - INFO - 127.0.0.1 - - [29/Nov/2025 22:24:10] "GET / HTTP/1.1" 200 -
+2025-11-29 22:24:10,403 - INFO - 127.0.0.1 - - [29/Nov/2025 22:24:10] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-29 22:24:10,404 - INFO - 127.0.0.1 - - [29/Nov/2025 22:24:10] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-29 22:24:10,465 - INFO - 127.0.0.1 - - [29/Nov/2025 22:24:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-29 22:24:25,840 - INFO - 127.0.0.1 - - [29/Nov/2025 22:24:25] "POST /suggest HTTP/1.1" 200 -
+2025-11-29 22:24:37,313 - INFO - 127.0.0.1 - - [29/Nov/2025 22:24:37] "POST /suggest HTTP/1.1" 200 -
+2025-11-29 22:24:44,856 - INFO - 127.0.0.1 - - [29/Nov/2025 22:24:44] "POST /suggest HTTP/1.1" 200 -
+2025-11-29 22:24:47,512 - INFO - 127.0.0.1 - - [29/Nov/2025 22:24:47] "GET /hobbies HTTP/1.1" 200 -
+2025-11-30 00:14:07,463 - ERROR - Hobbies file not found at C:\Users\sujal\Downloads\moonshot\find-your-hobby\hobbies.json
+2025-11-30 00:14:14,523 - INFO - Use pytorch device_name: cpu
+2025-11-30 00:14:14,523 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-30 00:14:18,420 - INFO - Building new embeddings...
+2025-11-30 00:14:18,420 - WARNING - No documents to embed.
+2025-11-30 00:14:18,441 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.21.76.155:8001
+2025-11-30 00:14:18,442 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 01:43:45,702 - ERROR - Hobbies file not found at C:\Users\sujal\Downloads\moonshot\find-your-hobby\hobbies.json
+2025-11-30 01:43:53,111 - INFO - Use pytorch device_name: cpu
+2025-11-30 01:43:53,111 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-30 01:43:56,964 - INFO - Building new embeddings...
+2025-11-30 01:43:56,964 - WARNING - No documents to embed.
+2025-11-30 01:43:56,982 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.21.76.155:8001
+2025-11-30 01:43:56,983 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 02:23:10,085 - INFO - 127.0.0.1 - - [30/Nov/2025 02:23:10] "GET / HTTP/1.1" 200 -
+2025-11-30 02:23:10,406 - INFO - 127.0.0.1 - - [30/Nov/2025 02:23:10] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 02:23:10,407 - INFO - 127.0.0.1 - - [30/Nov/2025 02:23:10] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 02:23:10,446 - INFO - 127.0.0.1 - - [30/Nov/2025 02:23:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 02:25:58,064 - INFO - 127.0.0.1 - - [30/Nov/2025 02:25:58] "GET / HTTP/1.1" 200 -
+2025-11-30 02:25:58,155 - INFO - 127.0.0.1 - - [30/Nov/2025 02:25:58] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 02:25:58,155 - INFO - 127.0.0.1 - - [30/Nov/2025 02:25:58] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 02:25:58,259 - INFO - 127.0.0.1 - - [30/Nov/2025 02:25:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:14:50,606 - ERROR - Hobbies file not found at C:\Users\sujal\Downloads\moonshot\find-your-hobby\hobbies.json
+2025-11-30 15:15:52,853 - INFO - Use pytorch device_name: cpu
+2025-11-30 15:15:52,854 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-30 15:16:03,867 - INFO - Building new embeddings...
+2025-11-30 15:16:03,867 - WARNING - No documents to embed.
+2025-11-30 15:16:03,963 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.56.75.195:8001
+2025-11-30 15:16:03,963 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 15:16:46,320 - INFO - 127.0.0.1 - - [30/Nov/2025 15:16:46] "GET / HTTP/1.1" 200 -
+2025-11-30 15:16:46,628 - INFO - 127.0.0.1 - - [30/Nov/2025 15:16:46] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:16:46,688 - INFO - 127.0.0.1 - - [30/Nov/2025 15:16:46] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:16:47,176 - INFO - 127.0.0.1 - - [30/Nov/2025 15:16:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:17:24,420 - INFO - Loaded 95 hobbies.
+2025-11-30 15:17:37,944 - INFO - Use pytorch device_name: cpu
+2025-11-30 15:17:37,944 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-30 15:17:56,660 - INFO - 127.0.0.1 - - [30/Nov/2025 15:17:56] "GET / HTTP/1.1" 200 -
+2025-11-30 15:17:56,697 - INFO - 127.0.0.1 - - [30/Nov/2025 15:17:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:17:56,921 - INFO - 127.0.0.1 - - [30/Nov/2025 15:17:56] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:18:00,559 - INFO - Building new embeddings...
+2025-11-30 15:18:01,932 - INFO - Embeddings built and saved.
+2025-11-30 15:18:01,958 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.56.75.195:8001
+2025-11-30 15:18:01,959 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 15:21:37,048 - INFO - 127.0.0.1 - - [30/Nov/2025 15:21:37] "POST /suggest HTTP/1.1" 200 -
+2025-11-30 15:22:31,922 - INFO - 127.0.0.1 - - [30/Nov/2025 15:22:31] "GET /hobbies HTTP/1.1" 200 -
+2025-11-30 15:28:20,036 - INFO - 127.0.0.1 - - [30/Nov/2025 15:28:20] "GET / HTTP/1.1" 200 -
+2025-11-30 15:28:20,236 - INFO - 127.0.0.1 - - [30/Nov/2025 15:28:20] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:28:20,258 - INFO - 127.0.0.1 - - [30/Nov/2025 15:28:20] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:29:29,238 - INFO - 127.0.0.1 - - [30/Nov/2025 15:29:29] "GET / HTTP/1.1" 200 -
+2025-11-30 15:29:29,614 - INFO - 127.0.0.1 - - [30/Nov/2025 15:29:29] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:29:29,620 - INFO - 127.0.0.1 - - [30/Nov/2025 15:29:29] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:29:30,438 - INFO - 127.0.0.1 - - [30/Nov/2025 15:29:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:30:04,851 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:04] "GET / HTTP/1.1" 200 -
+2025-11-30 15:30:05,601 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:30:05,610 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:05] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:30:06,171 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:30:24,233 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:24] "GET / HTTP/1.1" 200 -
+2025-11-30 15:30:24,296 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:30:24,302 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:24] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:30:24,841 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:24] "GET / HTTP/1.1" 200 -
+2025-11-30 15:30:24,910 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:30:24,913 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:24] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:30:25,085 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "GET / HTTP/1.1" 200 -
+2025-11-30 15:30:25,150 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:30:25,153 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:30:25,360 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "GET / HTTP/1.1" 200 -
+2025-11-30 15:30:25,428 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:30:25,429 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:30:25,581 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "GET / HTTP/1.1" 200 -
+2025-11-30 15:30:25,655 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:30:25,658 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:30:25,844 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "GET / HTTP/1.1" 200 -
+2025-11-30 15:30:25,955 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:30:26,004 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:26] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:30:26,066 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:26] "GET / HTTP/1.1" 200 -
+2025-11-30 15:30:26,146 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-30 15:30:26,149 - INFO - 127.0.0.1 - - [30/Nov/2025 15:30:26] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2025-11-30 15:32:12,926 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:12] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:13,048 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:32:13,050 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:32:13,115 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:32:13,385 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:13,450 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:32:13,456 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:32:13,510 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:32:13,679 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:13,794 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:32:13,796 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:32:13,822 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:32:13,901 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:13,951 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:32:13,953 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:13] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:32:14,022 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:32:14,067 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:14] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:14,137 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:14] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:32:14,139 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:14] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:32:14,188 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 15:32:14,772 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:14] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:14,848 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:14] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:14,877 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:14] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,002 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,067 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,124 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,205 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,239 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,280 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,304 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,333 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,374 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,421 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,476 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,512 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,539 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,630 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,774 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,861 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,904 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,930 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:15,967 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,006 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,054 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,166 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,228 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,276 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,328 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,390 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,453 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,625 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,658 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,681 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,756 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,812 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,857 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,887 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,917 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:16,991 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:16] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:17,023 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:17] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:17,049 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:17] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:17,143 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:17] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:17,246 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:17] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:17,335 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:17] "GET / HTTP/1.1" 200 -
+2025-11-30 15:32:17,374 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:17] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 15:32:17,376 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:17] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 15:32:17,421 - INFO - 127.0.0.1 - - [30/Nov/2025 15:32:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 20:31:47,035 - INFO - Loaded 95 hobbies.
+2025-11-30 20:32:14,759 - INFO - Use pytorch device_name: cpu
+2025-11-30 20:32:14,759 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-30 20:32:18,707 - INFO - Loaded cached embeddings.
+2025-11-30 20:32:18,720 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.21.123.217:8001
+2025-11-30 20:32:18,721 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 20:42:45,472 - INFO - 127.0.0.1 - - [30/Nov/2025 20:42:45] "GET / HTTP/1.1" 200 -
+2025-11-30 20:42:45,600 - INFO - 127.0.0.1 - - [30/Nov/2025 20:42:45] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-30 20:42:45,602 - INFO - 127.0.0.1 - - [30/Nov/2025 20:42:45] "GET /static/app.js HTTP/1.1" 200 -
+2025-11-30 20:42:45,652 - INFO - 127.0.0.1 - - [30/Nov/2025 20:42:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-30 20:43:12,810 - INFO - 127.0.0.1 - - [30/Nov/2025 20:43:12] "POST /suggest HTTP/1.1" 200 -
+2025-11-30 20:43:19,088 - INFO - 127.0.0.1 - - [30/Nov/2025 20:43:19] "GET /hobbies HTTP/1.1" 200 -
+2025-11-30 22:31:32,818 - INFO - Loaded 51 hobbies.
+2025-11-30 22:31:49,558 - INFO - Use pytorch device_name: cpu
+2025-11-30 22:31:49,559 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-30 22:31:54,740 - INFO - Building new embeddings...
+2025-11-30 22:31:57,909 - INFO - Embeddings built and saved.
+2025-11-30 22:31:57,937 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.21.123.217:8001
+2025-11-30 22:31:57,937 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-01 03:27:00,683 - INFO - Loaded 51 hobbies.
+2025-12-01 03:27:31,200 - INFO - Use pytorch device_name: cpu
+2025-12-01 03:27:31,200 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-01 03:27:35,126 - INFO - Loaded cached embeddings.
+2025-12-01 03:27:35,160 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.21.123.217:8001
+2025-12-01 03:27:35,160 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-01 03:27:39,297 - INFO - 127.0.0.1 - - [01/Dec/2025 03:27:39] "GET / HTTP/1.1" 200 -
+2025-12-01 03:27:39,412 - INFO - 127.0.0.1 - - [01/Dec/2025 03:27:39] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-01 03:27:39,414 - INFO - 127.0.0.1 - - [01/Dec/2025 03:27:39] "GET /static/app.js HTTP/1.1" 200 -
+2025-12-01 03:27:39,576 - INFO - 127.0.0.1 - - [01/Dec/2025 03:27:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-01 03:28:04,582 - INFO - 127.0.0.1 - - [01/Dec/2025 03:28:04] "POST /suggest HTTP/1.1" 200 -
+2025-12-01 03:28:06,747 - INFO - 127.0.0.1 - - [01/Dec/2025 03:28:06] "GET /hobbies HTTP/1.1" 200 -
+2025-12-01 03:28:07,485 - INFO - 127.0.0.1 - - [01/Dec/2025 03:28:07] "GET /hobbies HTTP/1.1" 200 -
+2025-12-01 03:28:07,672 - INFO - 127.0.0.1 - - [01/Dec/2025 03:28:07] "GET /hobbies HTTP/1.1" 200 -
+2025-12-01 03:28:07,839 - INFO - 127.0.0.1 - - [01/Dec/2025 03:28:07] "GET /hobbies HTTP/1.1" 200 -
+2025-12-02 10:19:12,922 - INFO - Loaded 51 hobbies.
+2025-12-02 10:19:48,533 - INFO - Use pytorch device_name: cpu
+2025-12-02 10:19:48,533 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-02 10:19:53,603 - INFO - Loaded cached embeddings.
+2025-12-02 10:19:53,639 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.22.2.79:8001
+2025-12-02 10:19:53,640 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-02 10:20:33,213 - INFO - 127.0.0.1 - - [02/Dec/2025 10:20:33] "GET / HTTP/1.1" 200 -
+2025-12-02 10:20:33,528 - INFO - 127.0.0.1 - - [02/Dec/2025 10:20:33] "GET /static/app.js HTTP/1.1" 200 -
+2025-12-02 10:20:33,530 - INFO - 127.0.0.1 - - [02/Dec/2025 10:20:33] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-02 10:20:33,575 - INFO - 127.0.0.1 - - [02/Dec/2025 10:20:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-02 10:20:35,864 - INFO - 127.0.0.1 - - [02/Dec/2025 10:20:35] "GET /hobbies HTTP/1.1" 200 -
+2025-12-02 10:20:54,671 - INFO - 127.0.0.1 - - [02/Dec/2025 10:20:54] "POST /suggest HTTP/1.1" 200 -
+2025-12-02 10:21:05,081 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:05] "GET / HTTP/1.1" 200 -
+2025-12-02 10:21:05,132 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:05] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-02 10:21:05,134 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:05] "GET /static/app.js HTTP/1.1" 200 -
+2025-12-02 10:21:05,147 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-02 10:21:46,716 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:46] "POST /suggest HTTP/1.1" 200 -
+2025-12-02 10:21:59,186 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:59] "GET / HTTP/1.1" 200 -
+2025-12-02 10:21:59,229 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-02 10:21:59,231 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:59] "GET /static/app.js HTTP/1.1" 200 -
+2025-12-02 10:21:59,245 - INFO - 127.0.0.1 - - [02/Dec/2025 10:21:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-02 10:22:24,323 - INFO - 127.0.0.1 - - [02/Dec/2025 10:22:24] "POST /suggest HTTP/1.1" 200 -
+2025-12-04 23:20:19,177 - INFO - Loaded 51 hobbies.
+2025-12-04 23:20:58,783 - INFO - Use pytorch device_name: cpu
+2025-12-04 23:20:58,783 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-04 23:21:03,852 - INFO - Loaded cached embeddings.
+2025-12-04 23:21:03,895 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.21.136.79:8001
+2025-12-04 23:21:03,896 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-04 23:22:15,734 - INFO - 127.0.0.1 - - [04/Dec/2025 23:22:15] "GET / HTTP/1.1" 200 -
+2025-12-04 23:22:15,935 - INFO - 127.0.0.1 - - [04/Dec/2025 23:22:15] "GET /static/app.js HTTP/1.1" 200 -
+2025-12-04 23:22:15,936 - INFO - 127.0.0.1 - - [04/Dec/2025 23:22:15] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-04 23:22:15,959 - INFO - 127.0.0.1 - - [04/Dec/2025 23:22:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-04 23:22:25,121 - INFO - 127.0.0.1 - - [04/Dec/2025 23:22:25] "POST /suggest HTTP/1.1" 200 -
+2025-12-05 00:02:19,113 - INFO - Loaded 51 hobbies.
+2025-12-05 00:02:26,773 - INFO - Use pytorch device_name: cpu
+2025-12-05 00:02:26,774 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-05 00:02:31,495 - INFO - Loaded cached embeddings.
+2025-12-05 00:02:31,550 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.21.136.79:8001
+2025-12-05 00:02:31,552 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 00:02:34,585 - INFO - 127.0.0.1 - - [05/Dec/2025 00:02:34] "GET / HTTP/1.1" 200 -
+2025-12-05 00:02:34,769 - INFO - 127.0.0.1 - - [05/Dec/2025 00:02:34] "GET /static/app.js HTTP/1.1" 200 -
+2025-12-05 00:02:34,770 - INFO - 127.0.0.1 - - [05/Dec/2025 00:02:34] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-05 00:02:34,805 - INFO - 127.0.0.1 - - [05/Dec/2025 00:02:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-05 00:02:56,280 - INFO - 127.0.0.1 - - [05/Dec/2025 00:02:56] "POST /suggest HTTP/1.1" 200 -
+2025-12-05 00:03:31,696 - INFO - 127.0.0.1 - - [05/Dec/2025 00:03:31] "POST /suggest HTTP/1.1" 200 -
+2025-12-06 01:48:31,151 - INFO - Loaded 51 hobbies.
+2025-12-06 01:48:31,151 - INFO - Building new embeddings...
+2025-12-06 01:48:32,983 - INFO - Embeddings built and saved.
+2025-12-06 01:48:32,990 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.25.122.195:8001
+2025-12-06 01:48:32,990 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-06 01:48:57,274 - INFO - Loaded 51 hobbies.
+2025-12-06 01:48:57,275 - INFO - Loaded cached embeddings.
+2025-12-06 01:48:57,288 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://10.25.122.195:8001
+2025-12-06 01:48:57,288 - INFO - [33mPress CTRL+C to quit[0m
